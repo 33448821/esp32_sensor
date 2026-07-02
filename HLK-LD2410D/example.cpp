@@ -1,4 +1,6 @@
-// 人体存在传感器简化版，只输出高低电平，接线：GPOP6->OUT
+// 人体存在传感器简化版，只输出高低电平
+// GPOP6->OUT
+// VCC +5V
 
 #define RADAR_OUT 6
 void setup() {
